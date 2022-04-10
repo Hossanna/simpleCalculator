@@ -71,8 +71,11 @@ button{
         margin: 5% 0;
     }
 
-    input{
-        padding: 5%;
+    #output{
+        padding-right: 5%;
+        text-align: right;
+        height: 60px;
+        line-height: 60px;
         background-color: hsl(268, 71%, 12%);
         border-radius: 10px;
         width: 100%;
@@ -196,8 +199,11 @@ button{
         margin: 5% 0;
     }
 
-    input{
-        padding: 5%;
+    #output{
+        padding-right: 5%;
+        text-align: right;
+        height: 60px;
+        line-height: 60px;
         background-color: hsl(268, 71%, 12%);
         border-radius: 10px;
         width: 100%;
@@ -318,8 +324,11 @@ button{
         margin: 5% 0;
     }
 
-    input{
-        padding: 5%;
+    #output{
+        padding-right: 5%;
+        text-align: right;
+        height: 60px;
+        line-height: 60px;
         background-color: hsl(268, 71%, 12%);
         border-radius: 10px;
         width: 100%;
@@ -442,8 +451,11 @@ button{
         margin: 5% 0;
     }
 
-    input{
-        padding: 5%;
+    #output{
+        padding-right: 5%;
+        text-align: right;
+        height: 60px;
+        line-height: 60px;
         background-color: hsl(268, 71%, 12%);
         border-radius: 10px;
         width: 100%;
@@ -567,8 +579,11 @@ button{
         margin: 5% 0;
     }
 
-    input{
-        padding: 5%;
+    #output{
+        padding-right: 5%;
+        text-align: right;
+        height: 60px;
+        line-height: 60px;
         background-color: hsl(268, 71%, 12%);
         border-radius: 10px;
         width: 100%;

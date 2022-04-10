@@ -68,8 +68,12 @@ button{
         margin: 5% 0;
     }
 
-    input{
-        padding: 5%;
+    #output{
+        padding-right: 5%;
+        text-align: right;
+        height: 60px;
+        line-height: 60px;
+        background-color: hsl(0, 0%, 93%);
         border-radius: 10px;
         width: 100%;
         font-weight: 500;
@@ -187,8 +191,12 @@ button{
         margin: 5% 0;
     }
 
-    input{
-        padding: 5%;
+    #output{
+        padding-right: 5%;
+        text-align: right;
+        height: 60px;
+        line-height: 60px;
+        background-color: hsl(0, 0%, 93%);
         border-radius: 10px;
         width: 100%;
         font-weight: 500;
@@ -304,8 +312,12 @@ button{
         margin: 5% 0;
     }
 
-    input{
-        padding: 5%;
+    #output{
+        padding-right: 5%;
+        text-align: right;
+        height: 60px;
+        background-color: hsl(0, 0%, 93%);
+        line-height: 60px;
         border-radius: 10px;
         width: 100%;
         font-weight: 500;
@@ -422,8 +434,12 @@ button{
         margin: 5% 0;
     }
 
-    input{
-        padding: 5%;
+    #output{
+        padding-right: 5%;
+        text-align: right;
+        background-color: hsl(0, 0%, 93%);
+        height: 60px;
+        line-height: 60px;
         border-radius: 10px;
         width: 100%;
         font-weight: 500;
@@ -541,8 +557,12 @@ button{
         margin: 5% 0;
     }
 
-    input{
-        padding: 5%;
+    #output{
+        padding-right: 5%;
+        text-align: right;
+        height: 60px;
+        line-height: 60px;
+        background-color: hsl(0, 0%, 93%);
         border-radius: 10px;
         width: 100%;
         font-weight: 500;
